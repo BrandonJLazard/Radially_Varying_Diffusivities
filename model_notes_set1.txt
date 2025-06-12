@@ -1,0 +1,8 @@
+
+model_1:  Ra = 1.0e+03 , nu = 2.295e+13 , nr = 128 , ntheta = 192
+model_2:  Ra = 3.0e+03 , nu = 1.592e+13 , nr = 128 , ntheta = 192
+model_3:  Ra = 1.0e+04 , nu = 1.065e+13 , nr = 128 , ntheta = 384
+model_4:  Ra = 3.0e+04 , nu = 7.387e+12 , nr = 128 , ntheta = 384
+model_5:  Ra = 1.0e+05 , nu = 4.945e+12 , nr = 128 , ntheta = 768
+model_6:  Ra = 3.0e+05 , nu = 3.429e+12 , nr = 128 , ntheta = 768
+model_7:  Ra = 1.0e+06 , nu = 2.295e+12 , nr = 128 , ntheta = 768
